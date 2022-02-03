@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hamzah/AndroidStudioProjects/ShangriLa/app/src/main/res/layout/activity_admin.xml" value="0.22210614291684078" />
+        <entry key="..\:/Users/Hamzah/AndroidStudioProjects/ShangriLa/app/src/main/res/layout/activity_list.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/Hamzah/AndroidStudioProjects/ShangriLa/app/src/main/res/layout/activity_login.xml" value="0.22210614291684078" />
+        <entry key="..\:/Users/Hamzah/AndroidStudioProjects/ShangriLa/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Hamzah/AndroidStudioProjects/ShangriLa/app/src/main/res/layout/activity_qrcode.xml" value="0.19084315503173163" />
+        <entry key="..\:/Users/Hamzah/AndroidStudioProjects/ShangriLa/app/src/main/res/layout/activity_question.xml" value="0.22210614291684078" />
+        <entry key="..\:/Users/Hamzah/AndroidStudioProjects/ShangriLa/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.3880208333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_qrcode.xml" value="0.20441988950276244" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.21142857142857144" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

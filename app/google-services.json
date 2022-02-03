@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229380939025",
+    "project_id": "shangri-la-e-survey",
+    "storage_bucket": "shangri-la-e-survey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229380939025:android:83cb113acfd487560840b0",
+        "android_client_info": {
+          "package_name": "co3102.cw2.eSurveyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229380939025-212qkh6b2rcd7ne52cfu1jplg392d7hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvNXZ-gqdW2Y_gcyKM9UIHReFZZVhMY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229380939025-212qkh6b2rcd7ne52cfu1jplg392d7hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
